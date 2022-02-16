@@ -25,7 +25,7 @@ namespace CsharpForTesters._09_Linq
 
             // ile mamy zamówień opłaconych z banku ING (zsumuj)
 
-            // 
+            // średnia zamówień osób z nazwiskiem Pijanowski
         }
       
     }
